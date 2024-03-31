@@ -15,3 +15,5 @@ https://www.mediafire.com/file/p9jcm3zavxj2dgt/languages.rar/file
 My Youtube video link:
 
 https://www.youtube.com/watch?v=W-fvurs-xjk&t=3s
+
+#javascript  #translate  #project
